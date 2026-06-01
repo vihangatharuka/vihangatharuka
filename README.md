@@ -21,12 +21,12 @@ Readme · MD
 ![Years](https://badges.pufler.dev/years/vihangatharuka?style=flat-square&color=8b5cf6&label=Years+Active)
  
 </div>
----
+
  
 ## 👤 &nbsp;About Me
  
 <img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:12px" />
-```yaml
+
 profile:
   name:     Vihanga Tharuka
   role:     Backend Engineer & Security Researcher
@@ -48,10 +48,9 @@ values:
   - Security-first design philosophy
   - Clean, maintainable, testable code
   - Continuous learning & knowledge sharing
-```
- 
+
 <br clear="right"/>
----
+
  
 ## 🛠 &nbsp;Technology Stack
  
@@ -99,7 +98,7 @@ values:
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
  
----
+
  
 ## 📊 &nbsp;GitHub Analytics
  
@@ -110,21 +109,21 @@ values:
  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vihangatharuka&theme=tokyonight&hide_border=true&background=1e2030&stroke=6366f1&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1&sideLabels=a0a9b8&dates=a0a9b8&currStreakNum=ffffff&sideNums=ffffff" width="65%" />
 </div>
----
+
  
 ## 🏆 &nbsp;Achievements
  
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=vihangatharuka&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
 </div>
----
+
  
 ## 📈 &nbsp;Contribution Activity
  
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vihangatharuka&theme=tokyo-night&bg_color=1e2030&color=6366f1&line=6366f1&point=06b6d4&area=true&area_color=6366f120&hide_border=true" width="98%" />
 </div>
----
+
  
 ## 💡 &nbsp;Engineering Philosophy
  
@@ -139,7 +138,7 @@ values:
 | 🏗️ **Clean Architecture** | Readable code is maintainable code |
  
 </div>
----
+
  
 ## 🤝 &nbsp;Connect With Me
  
@@ -160,7 +159,7 @@ values:
 ![Visitor](https://komarev.com/ghpvc/?username=vihangatharuka&color=6366f1&style=flat-square&label=Profile+Visits)&ensp;
 ![Last Commit](https://img.shields.io/github/last-commit/vihangatharuka/vihangatharuka?style=flat-square&color=06b6d4&label=Last+Updated)
  
-*© 2025 Vihanga Tharuka · All Rights Reserved*
+*© 2026 Vihanga Tharuka · All Rights Reserved*
  
 </div>
  
