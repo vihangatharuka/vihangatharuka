@@ -34,7 +34,8 @@ Backend Engineer focused on building secure, scalable systems. I architect APIs 
  
 ## 🛠 Technology Stack
  
-<br>
+<br><br>
+
 **Languages**
  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" />&nbsp;<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -113,7 +114,7 @@ Backend Engineer focused on building secure, scalable systems. I architect APIs 
 <a href="#"><img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /></a>&nbsp;
 <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="vihangatharuka.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </div>
 <br>
 ---
@@ -124,6 +125,6 @@ Backend Engineer focused on building secure, scalable systems. I architect APIs 
 <img src="https://komarev.com/ghpvc/?username=vihangatharuka&color=6366f1&style=flat-square&label=Profile+Visits" />&nbsp;
 <img src="https://img.shields.io/github/last-commit/vihangatharuka/vihangatharuka?style=flat-square&color=06b6d4&label=Last+Updated" />
 <br><br>
-*© 2025 Vihanga Tharuka · All Rights Reserved*
+*© 2026 Vihanga Tharuka · All Rights Reserved*
 </div>
  
