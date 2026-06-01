@@ -24,7 +24,7 @@
 ## 👤 &nbsp;About Me
  
 <img align="right" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:12px" />
-```yaml
+
 profile:
   name:     Vihanga Tharuka
   role:     Backend Engineer & Security Researcher
@@ -46,7 +46,7 @@ values:
   - Security-first design philosophy
   - Clean, maintainable, testable code
   - Continuous learning & knowledge sharing
-```
+
  
 <br clear="right"/>
 ---
