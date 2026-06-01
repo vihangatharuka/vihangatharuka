@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=Building+scalable+backend+systems+%26+APIs;Researching+security+vulnerabilities+%26+exploits;Automating+infrastructure+with+DevOps+practices;Designing+with+security-first+architecture)](https://git.io/typing-svg)
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=680&height=40&lines=Building+scalable+backend+systems+%26+APIs;Researching+security+vulnerabilities+%26+exploits;Automating+infrastructure+with+DevOps+practices;Designing+with+security-first+architecture)](https://git.io/typing-svg)
  
 </div>
 <br>
