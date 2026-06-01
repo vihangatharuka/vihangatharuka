@@ -19,7 +19,7 @@
 ![Years](https://badges.pufler.dev/years/vihangatharuka?style=flat-square&color=8b5cf6&label=Years+Active)
  
 </div>
----
+
  
 ## 👤 &nbsp;About Me
  
@@ -49,7 +49,7 @@ values:
 
  
 <br clear="right"/>
----
+
  
 ## 🛠 &nbsp;Technology Stack
  
